@@ -1,0 +1,366 @@
+,Country_name,Phone_code,Continent,Capital,Currency,Country_code,Languages
+0,Andorra,376,Europe,Andorra la Vella,EUR,AND,Catalan
+1,United Arab Emirates,971,Asia,Abu Dhabi,AED,ARE,Arabic
+2,Afghanistan,93,Asia,Kabul,AFN,AFG,Pashto
+3,Afghanistan,93,Asia,Kabul,AFN,AFG,Uzbek
+4,Afghanistan,93,Asia,Kabul,AFN,AFG,Turkmen
+5,Antigua and Barbuda,1268,America,Saint John's,XCD,ATG,English
+6,Anguilla,1264,America,The Valley,XCD,AIA,English
+7,Albania,355,Europe,Tirana,ALL,ALB,Albanian
+8,Armenia,374,Asia,Yerevan,AMD,ARM,Armenian
+9,Armenia,374,Asia,Yerevan,AMD,ARM,Russian
+10,Angola,244,Africa,Luanda,AOA,AGO,Portuguese
+11,Argentina,54,America,Buenos Aires,ARS,ARG,Spanish
+12,Argentina,54,America,Buenos Aires,ARS,ARG,Guarani
+13,American Samoa,1684,Oceania,Pago Pago,USD,ASM,English
+14,American Samoa,1684,Oceania,Pago Pago,USD,ASM,Samoan
+15,Austria,43,Europe,Vienna,EUR,AUT,German
+16,Australia,61,Oceania,Canberra,AUD,AUS,English
+17,Aruba,297,America,Oranjestad,AWG,ABW,Dutch
+18,Aruba,297,America,Oranjestad,AWG,ABW,Panjabi / Punjabi
+19,Aland Islands,358,Europe,Mariehamn,EUR,ALA,Swedish
+20,Azerbaijan,994,Asia,Baku,AZN,AZE,Azerbaijani
+21,Bosnia and Herzegovina,387,Europe,Sarajevo,BAM,BIH,Bosnian
+22,Bosnia and Herzegovina,387,Europe,Sarajevo,BAM,BIH,Croatian
+23,Bosnia and Herzegovina,387,Europe,Sarajevo,BAM,BIH,Serbian
+24,Barbados,1246,America,Bridgetown,BBD,BRB,English
+25,Bangladesh,880,Asia,Dhaka,BDT,BGD,Bengali
+26,Belgium,32,Europe,Brussels,EUR,BEL,Dutch
+27,Belgium,32,Europe,Brussels,EUR,BEL,French
+28,Belgium,32,Europe,Brussels,EUR,BEL,German
+29,Burkina Faso,226,Africa,Ouagadougou,XOF,BFA,French
+30,Burkina Faso,226,Africa,Ouagadougou,XOF,BFA,Peul
+31,Bulgaria,359,Europe,Sofia,BGN,BGR,Bulgarian
+32,Bahrain,973,Asia,Manama,BHD,BHR,Arabic
+33,Burundi,257,Africa,Bujumbura,BIF,BDI,French
+34,Burundi,257,Africa,Bujumbura,BIF,BDI,Kirundi
+35,Benin,229,Africa,Porto-Novo,XOF,BEN,French
+36,St. Barths,590,America,Gustavia,EUR,BLM,French
+37,Bermuda,1441,America,Hamilton,BMD,BMU,English
+38,Brunei Darussalam,673,Asia,Bandar Seri Begawan,BND,BRN,Malay
+39,Bolivia,591,America,Sucre,"BOB,BOV",BOL,Spanish
+40,Bolivia,591,America,Sucre,"BOB,BOV",BOL,Aymara
+41,Bolivia,591,America,Sucre,"BOB,BOV",BOL,Quechua
+42,Bonaire,5997,Bonaire,Kralendijk,USD,Bonaire,Dutch
+43,Brazil,55,America,Brasília,BRL,BRA,Portuguese
+44,Bahamas,1242,America,Nassau,BSD,BHS,English
+45,Bhutan,975,Asia,Thimphu,"BTN,INR",BTN,Dzongkha
+46,Bouvet Island,47,Antarctica,,NOK,BVT,Norwegian
+47,Bouvet Island,47,Antarctica,,NOK,BVT,Norwegian Nynorsk
+48,Botswana,267,Africa,Gaborone,BWP,BWA,English
+49,Botswana,267,Africa,Gaborone,BWP,BWA,Tswana
+50,Belarus,375,Europe,Minsk,BYR,BLR,Belarusian
+51,Belarus,375,Europe,Minsk,BYR,BLR,Russian
+52,Belize,501,America,Belmopan,BZD,BLZ,English
+53,Belize,501,America,Belmopan,BZD,BLZ,Spanish
+54,Canada,1,America,Ottawa,CAD,CAN,English
+55,Canada,1,America,Ottawa,CAD,CAN,French
+56,Cocos (Keeling) Islands,61,Asia,West Island,AUD,CCK,English
+57,DR Congo,243,Africa,Kinshasa,CDF,COD,French
+58,DR Congo,243,Africa,Kinshasa,CDF,COD,Lingala
+59,DR Congo,243,Africa,Kinshasa,CDF,COD,Kongo
+60,DR Congo,243,Africa,Kinshasa,CDF,COD,Swahili
+61,Central African Republic,236,Africa,Bangui,XAF,CAF,French
+62,Central African Republic,236,Africa,Bangui,XAF,CAF,Sango
+63,Congo Republic,242,Africa,Brazzaville,XAF,COG,French
+64,Congo Republic,242,Africa,Brazzaville,XAF,COG,Lingala
+65,Switzerland,41,Europe,Bern,"CHE,CHF,CHW",CHE,German
+66,Switzerland,41,Europe,Bern,"CHE,CHF,CHW",CHE,French
+67,Switzerland,41,Europe,Bern,"CHE,CHF,CHW",CHE,Italian
+68,Cote d'Ivoire,225,Africa,Yamoussoukro,XOF,CIV,French
+69,Cook Islands,682,Oceania,Avarua,NZD,COK,English
+70,Chile,56,America,Santiago,"CLF,CLP",CHL,Spanish
+71,Cameroon,237,Africa,Yaoundé,XAF,CMR,English
+72,Cameroon,237,Africa,Yaoundé,XAF,CMR,French
+73,China,86,Asia,Beijing,CNY,CHN,Chinese
+74,Colombia,57,America,Bogotá,COP,COL,Spanish
+75,Costa Rica,506,America,San José,CRC,CRI,Spanish
+76,Cuba,53,America,Havana,"CUC,CUP",CUB,Spanish
+77,Cabo Verde,238,Africa,Praia,CVE,CPV,Portuguese
+78,Curacao,5999,America,Willemstad,ANG,CUW,Dutch
+79,Curacao,5999,America,Willemstad,ANG,CUW,Panjabi / Punjabi
+80,Curacao,5999,America,Willemstad,ANG,CUW,English
+81,Christmas Island,61,Asia,Flying Fish Cove,AUD,CXR,English
+82,Cyprus,357,Asia,Nicosia,EUR,CYP,Greek
+83,Cyprus,357,Asia,Nicosia,EUR,CYP,Turkish
+84,Cyprus,357,Asia,Nicosia,EUR,CYP,Armenian
+85,Czech Republic,420,Europe,Prague,CZK,CZE,Czech
+86,Czech Republic,420,Europe,Prague,CZK,CZE,Slovak
+87,Germany,49,Europe,Berlin,EUR,DEU,German
+88,Djibouti,253,Africa,Djibouti,DJF,DJI,French
+89,Djibouti,253,Africa,Djibouti,DJF,DJI,Arabic
+90,Denmark,45,Europe,Copenhagen,DKK,DNK,Danish
+91,Dominica,1767,America,Roseau,XCD,DMA,English
+92,Dominican Republic,"1809,1829,1849",America,Santo Domingo,DOP,DOM,Spanish
+93,Algeria,213,Africa,Algiers,DZD,DZA,Arabic
+94,Ecuador,593,America,Quito,USD,ECU,Spanish
+95,Estonia,372,Europe,Tallinn,EUR,EST,Estonian
+96,Egypt,20,Africa,Cairo,EGP,EGY,Arabic
+97,Western Sahara,212,Africa,El Aaiún,"MAD,DZD,MRU",ESH,Spanish
+98,Eritrea,291,Africa,Asmara,ERN,ERI,Tigrinya
+99,Eritrea,291,Africa,Asmara,ERN,ERI,Arabic
+100,Eritrea,291,Africa,Asmara,ERN,ERI,English
+101,Spain,34,Europe,Madrid,EUR,ESP,Spanish
+102,Spain,34,Europe,Madrid,EUR,ESP,Basque
+103,Spain,34,Europe,Madrid,EUR,ESP,Catalan
+104,Spain,34,Europe,Madrid,EUR,ESP,Galician
+105,Spain,34,Europe,Madrid,EUR,ESP,Occitan
+106,Ethiopia,251,Africa,Addis Ababa,ETB,ETH,Amharic
+107,Finland,358,Europe,Helsinki,EUR,FIN,Finnish
+108,Finland,358,Europe,Helsinki,EUR,FIN,Swedish
+109,Fiji,679,Oceania,Suva,FJD,FJI,English
+110,Fiji,679,Oceania,Suva,FJD,FJI,Fijian
+111,Fiji,679,Oceania,Suva,FJD,FJI,Hindi
+112,Fiji,679,Oceania,Suva,FJD,FJI,Urdu
+113,Falkland Islands,500,America,Stanley,FKP,FLK,English
+114,"Micronesia, Fed. Sts.",691,Oceania,Palikir,USD,FSM,English
+115,Faeroe Islands,298,Europe,Tórshavn,DKK,FRO,Faroese
+116,France,33,Europe,Paris,EUR,FRA,French
+117,Gabon,241,Africa,Libreville,XAF,GAB,French
+118,United Kingdom,44,Europe,London,GBP,GBR,English
+119,Grenada,1473,America,St. George's,XCD,GRD,English
+120,Georgia,995,Asia,Tbilisi,GEL,GEO,Georgian
+121,French Guiana,594,Africa,Cayenne,EUR,GUF,French
+122,Guernsey,44,Europe,St. Peter Port,GBP,GGY,English
+123,Guernsey,44,Europe,St. Peter Port,GBP,GGY,French
+124,Ghana,233,Africa,Accra,GHS,GHA,English
+125,Gibraltar,350,Europe,Gibraltar,GIP,GIB,English
+126,Greenland,299,America,Nuuk,DKK,GRL,Greenlandic
+127,Gambia,220,Africa,Banjul,GMD,GMB,English
+128,Guinea,224,Africa,Conakry,GNF,GIN,French
+129,Guinea,224,Africa,Conakry,GNF,GIN,Peul
+130,Guadeloupe,590,America,Basse-Terre,EUR,GLP,French
+131,Equatorial Guinea,240,Africa,Malabo,XAF,GNQ,Spanish
+132,Equatorial Guinea,240,Africa,Malabo,XAF,GNQ,French
+133,Greece,30,Europe,Athens,EUR,GRC,Greek
+134,South Georgia and South Sandwich Is.,500,Antarctica,King Edward Point,GBP,SGS,English
+135,Guatemala,502,America,Guatemala City,GTQ,GTM,Spanish
+136,Guam,1671,Oceania,Hagåtña,USD,GUM,English
+137,Guam,1671,Oceania,Hagåtña,USD,GUM,Chamorro
+138,Guam,1671,Oceania,Hagåtña,USD,GUM,Spanish
+139,Guinea-Bissau,245,Africa,Bissau,XOF,GNB,Portuguese
+140,Guyana,592,America,Georgetown,GYD,GUY,English
+141,Hong Kong,852,Asia,City of Victoria,HKD,HKG,Chinese
+142,Hong Kong,852,Asia,City of Victoria,HKD,HKG,English
+143,Heard and McDonald Islands,61,Asia,,AUD,HMD,English
+144,Honduras,504,America,Tegucigalpa,HNL,HND,Spanish
+145,Croatia,385,Europe,Zagreb,HRK,HRV,Croatian
+146,Haiti,509,America,Port-au-Prince,"HTG,USD",HTI,French
+147,Haiti,509,America,Port-au-Prince,"HTG,USD",HTI,Haitian
+148,Hungary,36,Europe,Budapest,HUF,HUN,Hungarian
+149,Indonesia,62,Asia,Jakarta,IDR,IDN,Indonesian
+150,Ireland,353,Europe,Dublin,EUR,IRL,Irish
+151,Ireland,353,Europe,Dublin,EUR,IRL,English
+152,Israel,972,Asia,Jerusalem,ILS,ISR,Hebrew
+153,Israel,972,Asia,Jerusalem,ILS,ISR,Arabic
+154,Isle of Man,44,Europe,Douglas,GBP,IMN,English
+155,Isle of Man,44,Europe,Douglas,GBP,IMN,Manx
+156,India,91,Asia,New Delhi,INR,IND,Hindi
+157,India,91,Asia,New Delhi,INR,IND,English
+158,British Indian Ocean Territory,246,Africa,Diego Garcia,USD,IOT,English
+159,Iraq,964,Asia,Baghdad,IQD,IRQ,Arabic
+160,Iraq,964,Asia,Baghdad,IQD,IRQ,Kurdish
+161,Iran,98,Asia,Tehran,IRR,IRN,Persian
+162,Iceland,354,Europe,Reykjavik,ISK,ISL,Icelandic
+163,Italy,39,Europe,Rome,EUR,ITA,Italian
+164,Jersey,44,Europe,Saint Helier,GBP,JEY,English
+165,Jersey,44,Europe,Saint Helier,GBP,JEY,French
+166,Jamaica,1876,America,Kingston,JMD,JAM,English
+167,Jordan,962,Asia,Amman,JOD,JOR,Arabic
+168,Japan,81,Asia,Tokyo,JPY,JPN,Japanese
+169,Kenya,254,Africa,Nairobi,KES,KEN,English
+170,Kenya,254,Africa,Nairobi,KES,KEN,Swahili
+171,Kyrgyz Republic,996,Asia,Bishkek,KGS,KGZ,Kirghiz
+172,Kyrgyz Republic,996,Asia,Bishkek,KGS,KGZ,Russian
+173,Cambodia,855,Asia,Phnom Penh,KHR,KHM,Cambodian
+174,Kiribati,686,Oceania,South Tarawa,AUD,KIR,English
+175,Comoros,269,Africa,Moroni,KMF,COM,Arabic
+176,Comoros,269,Africa,Moroni,KMF,COM,French
+177,St. Kitts and Nevis,1869,America,Basseterre,XCD,KNA,English
+178,North Korea,850,Asia,Pyongyang,KPW,PRK,Korean
+179,South Korea,82,Asia,Seoul,KRW,KOR,Korean
+180,Kuwait,965,Asia,Kuwait City,KWD,KWT,Arabic
+181,Cayman Islands,1345,America,George Town,KYD,CYM,English
+182,Kazakhstan,"76,77",Asia,Astana,KZT,KAZ,Kazakh
+183,Kazakhstan,"76,77",Asia,Astana,KZT,KAZ,Russian
+184,Laos,856,Asia,Vientiane,LAK,LAO,Laotian
+185,Lebanon,961,Asia,Beirut,LBP,LBN,Arabic
+186,Lebanon,961,Asia,Beirut,LBP,LBN,French
+187,St. Lucia,1758,America,Castries,XCD,LCA,English
+188,Liechtenstein,423,Europe,Vaduz,CHF,LIE,German
+189,Sri Lanka,94,Asia,Colombo,LKR,LKA,Sinhalese
+190,Sri Lanka,94,Asia,Colombo,LKR,LKA,Tamil
+191,Liberia,231,Africa,Monrovia,LRD,LBR,English
+192,Lesotho,266,Africa,Maseru,"LSL,ZAR",LSO,English
+193,Lesotho,266,Africa,Maseru,"LSL,ZAR",LSO,Southern Sotho
+194,Lithuania,370,Europe,Vilnius,EUR,LTU,Lithuanian
+195,Luxembourg,352,Europe,Luxembourg,EUR,LUX,French
+196,Luxembourg,352,Europe,Luxembourg,EUR,LUX,German
+197,Luxembourg,352,Europe,Luxembourg,EUR,LUX,Luxembourgish
+198,Latvia,371,Europe,Riga,EUR,LVA,Latvian
+199,Libya,218,Africa,Tripoli,LYD,LBY,Arabic
+200,Morocco,212,Africa,Rabat,MAD,MAR,Arabic
+201,Monaco,377,Europe,Monaco,EUR,MCO,French
+202,Moldova,373,Europe,Chișinău,MDL,MDA,Romanian
+203,Montenegro,382,Europe,Podgorica,EUR,MNE,Serbian
+204,Montenegro,382,Europe,Podgorica,EUR,MNE,Bosnian
+205,Montenegro,382,Europe,Podgorica,EUR,MNE,Albanian
+206,Montenegro,382,Europe,Podgorica,EUR,MNE,Croatian
+207,Saint-Martin,590,America,Marigot,EUR,MAF,English
+208,Saint-Martin,590,America,Marigot,EUR,MAF,French
+209,Saint-Martin,590,America,Marigot,EUR,MAF,Dutch
+210,Madagascar,261,Africa,Antananarivo,MGA,MDG,French
+211,Madagascar,261,Africa,Antananarivo,MGA,MDG,Malagasy
+212,Marshall Islands,692,Oceania,Majuro,USD,MHL,English
+213,Marshall Islands,692,Oceania,Majuro,USD,MHL,Marshallese
+214,Macedonia,389,Europe,Skopje,MKD,MKD,Macedonian
+215,Mali,223,Africa,Bamako,XOF,MLI,French
+216,Myanmar,95,Asia,Naypyidaw,MMK,MMR,Burmese
+217,Mongolia,976,Asia,Ulan Bator,MNT,MNG,Mongolian
+218,Macao,853,Asia,,MOP,MAC,Chinese
+219,Macao,853,Asia,,MOP,MAC,Portuguese
+220,Northern Mariana Islands,1670,Oceania,Saipan,USD,MNP,English
+221,Northern Mariana Islands,1670,Oceania,Saipan,USD,MNP,Chamorro
+222,Martinique,596,America,Fort-de-France,EUR,MTQ,French
+223,Mauritania,222,Africa,Nouakchott,MRU,MRT,Arabic
+224,Montserrat,1664,America,Plymouth,XCD,MSR,English
+225,Malta,356,Europe,Valletta,EUR,MLT,Maltese
+226,Malta,356,Europe,Valletta,EUR,MLT,English
+227,Mauritius,230,Africa,Port Louis,MUR,MUS,English
+228,Maldives,960,Asia,Malé,MVR,MDV,Divehi
+229,Malawi,265,Africa,Lilongwe,MWK,MWI,English
+230,Malawi,265,Africa,Lilongwe,MWK,MWI,Chichewa
+231,Mexico,52,America,Mexico City,MXN,MEX,Spanish
+232,Malaysia,60,Asia,Kuala Lumpur,MYR,MYS,Malay
+233,Mozambique,258,Africa,Maputo,MZN,MOZ,Portuguese
+234,Namibia,264,Africa,Windhoek,"NAD,ZAR",NAM,English
+235,Namibia,264,Africa,Windhoek,"NAD,ZAR",NAM,Afrikaans
+236,New Caledonia,687,Oceania,Nouméa,XPF,NCL,French
+237,Niger,227,Africa,Niamey,XOF,NER,French
+238,Norfolk Island,672,Oceania,Kingston,AUD,NFK,English
+239,Nigeria,234,Africa,Abuja,NGN,NGA,English
+240,Nicaragua,505,America,Managua,NIO,NIC,Spanish
+241,Netherlands,31,Europe,Amsterdam,EUR,NLD,Dutch
+242,Norway,47,Europe,Oslo,NOK,NOR,Norwegian
+243,Norway,47,Europe,Oslo,NOK,NOR,Norwegian Nynorsk
+244,Nepal,977,Asia,Kathmandu,NPR,NPL,Nepali
+245,Nauru,674,Oceania,Yaren,AUD,NRU,English
+246,Nauru,674,Oceania,Yaren,AUD,NRU,Nauruan
+247,Niue,683,Oceania,Alofi,NZD,NIU,English
+248,New Zealand,64,Oceania,Wellington,NZD,NZL,English
+249,New Zealand,64,Oceania,Wellington,NZD,NZL,Maori
+250,Oman,968,Asia,Muscat,OMR,OMN,Arabic
+251,Panama,507,America,Panama City,"PAB,USD",PAN,Spanish
+252,Peru,51,America,Lima,PEN,PER,Spanish
+253,French Polynesia,689,Oceania,Papeetē,XPF,PYF,French
+254,Papua New Guinea,675,Oceania,Port Moresby,PGK,PNG,English
+255,Philippines,63,Asia,Manila,PHP,PHL,English
+256,Pakistan,92,Asia,Islamabad,PKR,PAK,English
+257,Pakistan,92,Asia,Islamabad,PKR,PAK,Urdu
+258,Poland,48,Europe,Warsaw,PLN,POL,Polish
+259,St. Pierre and Miquelon,508,America,Saint-Pierre,EUR,SPM,French
+260,Pitcairn,64,Oceania,Adamstown,NZD,PCN,English
+261,Puerto Rico,"1787,1939",America,San Juan,USD,PRI,Spanish
+262,Puerto Rico,"1787,1939",America,San Juan,USD,PRI,English
+263,Palestine,970,Asia,Ramallah,ILS,PSE,Arabic
+264,Portugal,351,Europe,Lisbon,EUR,PRT,Portuguese
+265,Palau,680,Oceania,Ngerulmud,USD,PLW,English
+266,Paraguay,595,America,Asunción,PYG,PRY,Spanish
+267,Paraguay,595,America,Asunción,PYG,PRY,Guarani
+268,Qatar,974,Asia,Doha,QAR,QAT,Arabic
+269,Reunion,262,Africa,Saint-Denis,EUR,REU,French
+270,Romania,40,Europe,Bucharest,RON,ROU,Romanian
+271,Serbia,381,Europe,Belgrade,RSD,SRB,Serbian
+272,Russia,7,Europe,Moscow,RUB,RUS,Russian
+273,Rwanda,250,Africa,Kigali,RWF,RWA,Rwandi
+274,Rwanda,250,Africa,Kigali,RWF,RWA,English
+275,Rwanda,250,Africa,Kigali,RWF,RWA,French
+276,Saudi Arabia,966,Asia,Riyadh,SAR,SAU,Arabic
+277,Solomon Islands,677,Oceania,Honiara,SBD,SLB,English
+278,Seychelles,248,Africa,Victoria,SCR,SYC,French
+279,Seychelles,248,Africa,Victoria,SCR,SYC,English
+280,Sudan,249,Africa,Khartoum,SDG,SDN,Arabic
+281,Sudan,249,Africa,Khartoum,SDG,SDN,English
+282,Sweden,46,Europe,Stockholm,SEK,SWE,Swedish
+283,Singapore,65,Asia,Singapore,SGD,SGP,English
+284,Singapore,65,Asia,Singapore,SGD,SGP,Malay
+285,Singapore,65,Asia,Singapore,SGD,SGP,Tamil
+286,Singapore,65,Asia,Singapore,SGD,SGP,Chinese
+287,St. Helena,290,Africa,Jamestown,SHP,SHN,English
+288,Slovenia,386,Europe,Ljubljana,EUR,SVN,Slovenian
+289,Svalbard and Jan Mayen Islands,4779,Europe,Longyearbyen,NOK,SJM,Norwegian
+290,Slovakia,421,Europe,Bratislava,EUR,SVK,Slovak
+291,Sierra Leone,232,Africa,Freetown,SLL,SLE,English
+292,San Marino,378,Europe,City of San Marino,EUR,SMR,Italian
+293,Senegal,221,Africa,Dakar,XOF,SEN,French
+294,Somalia,252,Africa,Mogadishu,SOS,SOM,Somalia
+295,Somalia,252,Africa,Mogadishu,SOS,SOM,Arabic
+296,Suriname,597,America,Paramaribo,SRD,SUR,Dutch
+297,South Sudan,211,Africa,Juba,SSP,SSD,English
+298,Sao Tome and Principe,239,Africa,São Tomé,STN,STP,Portuguese
+299,El Salvador,503,America,San Salvador,"SVC,USD",SLV,Spanish
+300,Sint Maarten,1721,America,Philipsburg,ANG,SXM,Dutch
+301,Sint Maarten,1721,America,Philipsburg,ANG,SXM,English
+302,Syria,963,Asia,Damascus,SYP,SYR,Arabic
+303,Eswatini,268,Africa,Lobamba,SZL,SWZ,English
+304,Eswatini,268,Africa,Lobamba,SZL,SWZ,Swati
+305,Turks and Caicos Islands,1649,America,Cockburn Town,USD,TCA,English
+306,Chad,235,Africa,N'Djamena,XAF,TCD,French
+307,Chad,235,Africa,N'Djamena,XAF,TCD,Arabic
+308,French Southern Territories,262,Africa,Port-aux-Français,EUR,ATF,French
+309,Togo,228,Africa,Lomé,XOF,TGO,French
+310,Thailand,66,Asia,Bangkok,THB,THA,Thai
+311,Tajikistan,992,Asia,Dushanbe,TJS,TJK,Tajik
+312,Tajikistan,992,Asia,Dushanbe,TJS,TJK,Russian
+313,Tokelau,690,Oceania,Fakaofo,NZD,TKL,English
+314,Timor-Leste,670,Asia,Dili,USD,TLS,Portuguese
+315,Turkmenistan,993,Asia,Ashgabat,TMT,TKM,Turkmen
+316,Turkmenistan,993,Asia,Ashgabat,TMT,TKM,Russian
+317,Tunisia,216,Africa,Tunis,TND,TUN,Arabic
+318,Tonga,676,Oceania,Nuku'alofa,TOP,TON,English
+319,Tonga,676,Oceania,Nuku'alofa,TOP,TON,Tonga
+320,Turkey,90,Asia,Ankara,TRY,TUR,Turkish
+321,Trinidad and Tobago,1868,America,Port of Spain,TTD,TTO,English
+322,Tuvalu,688,Oceania,Funafuti,AUD,TUV,English
+323,Taiwan,886,Asia,Taipei,TWD,TWN,Chinese
+324,Tanzania,255,Africa,Dodoma,TZS,TZA,Swahili
+325,Tanzania,255,Africa,Dodoma,TZS,TZA,English
+326,Ukraine,380,Europe,Kyiv,UAH,UKR,Ukrainian
+327,Uganda,256,Africa,Kampala,UGX,UGA,English
+328,Uganda,256,Africa,Kampala,UGX,UGA,Swahili
+329,United States Minor Outlying Islands,1,Oceania,,USD,UMI,English
+330,United States,1,America,Washington D.C.,"USD,USN,USS",USA,English
+331,Uruguay,598,America,Montevideo,"UYI,UYU",URY,Spanish
+332,Uzbekistan,998,Asia,Tashkent,UZS,UZB,Uzbek
+333,Uzbekistan,998,Asia,Tashkent,UZS,UZB,Russian
+334,Vatican,"39066,379",Europe,Vatican City,EUR,VAT,Italian
+335,Vatican,"39066,379",Europe,Vatican City,EUR,VAT,Latin
+336,St. Vincent and the Grenadines,1784,America,Kingstown,XCD,VCT,English
+337,Venezuela,58,America,Caracas,VES,VEN,Spanish
+338,British Virgin Islands,1284,America,Road Town,USD,VGB,English
+339,United States Virgin Islands,1340,America,Charlotte Amalie,USD,VIR,English
+340,Vietnam,84,Asia,Hanoi,VND,VNM,Vietnamese
+341,Vanuatu,678,Oceania,Port Vila,VUV,VUT,Bislama
+342,Vanuatu,678,Oceania,Port Vila,VUV,VUT,English
+343,Vanuatu,678,Oceania,Port Vila,VUV,VUT,French
+344,Wallis and Futuna Islands,681,Oceania,Mata-Utu,XPF,WLF,French
+345,Samoa,685,Oceania,Apia,WST,WSM,Samoan
+346,Samoa,685,Oceania,Apia,WST,WSM,English
+347,Kosovo,"377,381,383,386",Europe,Pristina,EUR,XKX,Albanian
+348,Kosovo,"377,381,383,386",Europe,Pristina,EUR,XKX,Serbian
+349,Yemen,967,Asia,Sana'a,YER,YEM,Arabic
+350,Mayotte,262,Africa,Mamoudzou,EUR,MYT,French
+351,South Africa,27,Africa,Pretoria,ZAR,ZAF,Afrikaans
+352,South Africa,27,Africa,Pretoria,ZAR,ZAF,English
+353,South Africa,27,Africa,Pretoria,ZAR,ZAF,South Ndebele
+354,South Africa,27,Africa,Pretoria,ZAR,ZAF,Southern Sotho
+355,South Africa,27,Africa,Pretoria,ZAR,ZAF,Swati
+356,South Africa,27,Africa,Pretoria,ZAR,ZAF,Tswana
+357,South Africa,27,Africa,Pretoria,ZAR,ZAF,Tsonga
+358,South Africa,27,Africa,Pretoria,ZAR,ZAF,Venda
+359,South Africa,27,Africa,Pretoria,ZAR,ZAF,Xhosa
+360,South Africa,27,Africa,Pretoria,ZAR,ZAF,Zulu
+361,Zambia,260,Africa,Lusaka,ZMK,ZMB,English
+362,Zimbabwe,263,Africa,Harare,"USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",ZWE,English
+363,Zimbabwe,263,Africa,Harare,"USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",ZWE,Shona
+364,Zimbabwe,263,Africa,Harare,"USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",ZWE,North Ndebele
