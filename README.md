@@ -16,19 +16,16 @@ This is an end-to-end project where we aim to perform a language localization fo
 
 __Language localization__ is the process of adapting a product's translation to a specific country or region. It is the second phase of a larger process of product translation and cultural adaptation (for specific countries, regions, cultures or groups) to account for differences in distinct markets, a process known as internationalization and localization. 
 
-In this project we aim to find the best possible language to which translate next versions of [Electronic Arts](https://www.ea.com)'s videogame, __FIFA__.
+In this project we aim to find the best possible language to which translate next versions of [Electronic Arts](https://www.ea.com)'s videogame, __FIFA__. For this, we don't have any official data but the specifications of the game and a full dataset of the attributes and skills of the players in the game. Apart from this, we also employ a collection of Twitter tweets mentioning the game and with a [sentiment](https://en.wikipedia.org/wiki/Sentiment_analysis) score. This data, however, is enough to come with an insightful conclusion about what would be a good language candidate for the future.
 
-For this, we don't have any official data but the specifications of the game and a full dataset of the attributes and skills of the players in the game. Apart from this, we will also employ a collection of Twitter tweets mentioning the game and with a [sentiment](https://en.wikipedia.org/wiki/Sentiment_analysis) score. This data, however, will be enough to come with an insightful conclusion about what would be a good language candidate for the future.
-
-
-### Notebooks
+## Notebooks
 
 * `FIFA_localization.ipynb`: Main notebook with the analyses. The contents include:
 
     0. FIFA languages included in the game
     1. The FIFA 20 dataset
         1. Adding languages to the dataset
-        2. Player's international reputation
+        2. Player's international reputations
     2. Twitter analysis
         1. Tweets with coordinates (exact location)
         2. Tweets by tweet language
@@ -43,3 +40,5 @@ For this, we don't have any official data but the specifications of the game and
 * `Countries_dataset.ipynb`: We construct a country/language CSV dataset from several public JSON files.
 
 `Twitter/`: This folder contains Python scripts used to collect the tweets processed in `Tweets processing and sentiment.ipynb`.
+
+__Note:__ Please keep in mind that Twitter [does not allow](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases) to make data obtained form their API publicly available. Therefore, some parts of the notebooks are not reproducible in Binder or Google Colab.
