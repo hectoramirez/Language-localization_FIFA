@@ -5,7 +5,7 @@ __End-to-end project involving exploratory data analysis, social media analysis 
 This is an end-to-end project where we aim to perform a language localization for the FIFA videogame with only public and recollected data sets. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hectoramirez/VideoGame-localization/master?filepath=FIFA_localization.ipynb)
 ![](https://img.shields.io/badge/End--to--end-project-important)
 ![](https://img.shields.io/badge/-Language%20localization-success)
 [![Licence](https://img.shields.io/badge/Licence-MIT-red)](https://opensource.org/licenses/MIT)
