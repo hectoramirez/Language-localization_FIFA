@@ -42,3 +42,7 @@ In this project we aim to find the best possible language to which translate nex
 `Twitter/`: This folder contains Python scripts used to collect the tweets processed in `Tweets processing and sentiment.ipynb`.
 
 __Note:__ Please keep in mind that Twitter [does not allow](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases) to make data obtained form their API publicly available. Therefore, some parts of the notebooks are not reproducible in Binder or Google Colab.
+
+## Results
+
+The results are summarized in [Plotly](https://plotly.com/python/)'s maps in the `maps/` folder.
