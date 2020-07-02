@@ -1,6 +1,6 @@
 # Results
 
-This folder contains [Plotly](https://plotly.com/python/)'s maps which summarize the results obtained in `FIFA_localization.ipynb`. [Click on the followin links!]
+This folder contains [Plotly](https://plotly.com/python/)'s maps which summarize the results obtained in `FIFA_localization.ipynb`. [Click on the following links!]
 
 * [`countries_covered.html`](https://hectoramirez.github.io/FIFA/countries_covered.html): Shows the countries where one or more of the languages already included in the FIFA game are spoken. We notice that the __Balkanic countries__ and the __Southeast Asia__ are not covered by the current available languages.
 
