@@ -4,10 +4,15 @@ __End-to-end project involving exploratory data analysis, social media analysis 
 
 This is an end-to-end project where we aim to perform a language localization for the FIFA videogame with only public and recollected data sets. 
 
+* __A [Medium Story](https://towardsdatascience.com/language-localization-an-end-to-end-project-on-data-science-and-fifa-20-9b467c636345) of this project was featured in the _Data Science_ and _Programming_ topic pages, and was  published in [Towards Data Science](https://towardsdatascience.com).__
+
+* __Another [Medium Story](https://towardsdatascience.com/twitter-json-data-processing-3f353a5deac4) covering the process in `Tweets processing and sentiment.ipynb` was featured in the _Data Science_ and _Machine Learning_ topic pages, and was  published in [Towards Data Science](https://towardsdatascience.com).__
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hectoramirez/VideoGame-localization/master?filepath=FIFA_localization.ipynb)
-![](https://img.shields.io/badge/End--to--end-project-important)
-![](https://img.shields.io/badge/-Language%20localization-success)
+[![Medium](https://img.shields.io/badge/Medium-Language_localization-success)]()
+[![Medium](https://img.shields.io/badge/Medium-Twitter_JSON_data_processing-important)](https://towardsdatascience.com/twitter-json-data-processing-3f353a5deac4)
+[![TDS](https://img.shields.io/badge/-Towards%20Data%20Science-blue)]()
 [![Licence](https://img.shields.io/badge/Licence-MIT-red)](https://opensource.org/licenses/MIT)
 
 
@@ -45,4 +50,4 @@ __Note:__ Please keep in mind that Twitter [does not allow](https://developer.tw
 
 ## Results
 
-The results are summarized in [Plotly](https://plotly.com/python/)'s maps in the `maps/` folder.
+The results are summarized in [Plotly](https://plotly.com/python/)'s maps in the `Results/` folder.
