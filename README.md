@@ -10,7 +10,7 @@ This is an end-to-end project where we aim to perform a language localization fo
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hectoramirez/VideoGame-localization/master?filepath=FIFA_localization.ipynb)
-[![Medium](https://img.shields.io/badge/Medium-Language_localization-success)]()
+[![Medium](https://img.shields.io/badge/Medium-Language_localization-success)](https://towardsdatascience.com/language-localization-an-end-to-end-project-on-data-science-and-fifa-20-9b467c636345)
 [![Medium](https://img.shields.io/badge/Medium-Twitter_JSON_data_processing-important)](https://towardsdatascience.com/twitter-json-data-processing-3f353a5deac4)
 [![TDS](https://img.shields.io/badge/-Towards%20Data%20Science-blue)]()
 [![Licence](https://img.shields.io/badge/Licence-MIT-red)](https://opensource.org/licenses/MIT)
